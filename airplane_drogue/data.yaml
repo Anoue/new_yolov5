@@ -1,0 +1,10 @@
+# dataset path
+train: airplane_drogue/images/train
+val: airplane_drogue/images/val
+test: airplane_drogue/images/val
+
+# number of classes
+nc: 2
+
+# class names
+names: ['airplane', 'drogue']

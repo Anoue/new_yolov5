@@ -1,0 +1,10 @@
+# dataset path
+train: coco_ariplane/images/train2017
+val: coco_ariplane/images/val2017
+test: coco_ariplane/images/test2017
+
+# number of classes
+nc: 2
+
+# class names
+names: ['airplane', 'drogue']
